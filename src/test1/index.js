@@ -10,7 +10,7 @@ class Test extends React.Component {
     }
 
     render(){
-        return <div className='redC'>test...!</div>
+        return <div className='redC'>test1...!</div>
     }
 }
 
